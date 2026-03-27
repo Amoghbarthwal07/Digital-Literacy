@@ -1,4 +1,8 @@
 # Digital-Literacy
+📍Name:Amogh Barthwal  
+📍Reg No.:25BCE10381  
+📍Branch:CSE Year 1st  
+**Course:** CSE0001 – Digital Literacy
 digital literacy project for vit bhopal institute
 This repository contains 5 Tasks, for each task each Task's folder has been made including all the contents. 
 📌Task1
