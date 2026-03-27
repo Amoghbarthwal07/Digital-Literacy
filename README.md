@@ -7,6 +7,9 @@ This task required us to build a 1 slide presentation which i built , with the h
 📌Task 2
 Build Your Student Digital Portfolio (Module 2 )
 This task required us to create our digital presenc and explain how different platforms hold specific importance in regard to our future usage .My presence has been shown through screenshots of my id and my views on what role each app play has been explained through a word presentation.
+🔗GITHUB profile link :https://github.com/Amoghbarthwal07 
+🔗LINKEDIN profile link: https://www.linkedin.com/in/amogh-barthwal-aab341373/ 
+🔗Stack Overflow profile link :https://stackoverflow.com/users/32525909/amogh-barthwal-25bce10381   
 📌Task 3
 Explore Coding & Collaboration Platforms (Module 3) 
 This task was completed by making my id on hacker rank and completing few basic problem in python and C++.Which was followed by the second part of this task according ton which a google form with the intent of checking digital awareness has been made . All of these topics have been explained in a Word project report of Task-3 folder. 
